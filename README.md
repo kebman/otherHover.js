@@ -18,6 +18,8 @@ Enter otherHover.js!
 Just put a span-tag with the class of "highlight" around each keyword you wish to store in the list.
 Then add the ID "list" to the, errr, list. Each keyword in the list also needs needs to be surrounded by a span-tag. The reason is simply to prevent that the active area spans the whole width of the page. With the span-tag the active area only spans the width of the actual keyword. 
 
+Now, whenever you hover your mouse over keyword in the list, the word will also light up in the paragraph you took it from. Small caveat: Works best if you can see both the paragraph and the list at the same time, though.
+
 Try out the example HTML-file with the script and see for yourself!
 
 ## License
